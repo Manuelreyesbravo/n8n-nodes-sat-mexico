@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-sat-mexico",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Nodo n8n para integración con SAT México - Facturación CFDI, RFC, UDI, tipo de cambio",
   "keywords": [
     "n8n-community-node-package",
